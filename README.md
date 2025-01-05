@@ -24,7 +24,7 @@ This project showcases the use of **Excel** to create detailed sales and financi
 
 ## Technologies and Tools Used:
 
-- **Excel**: Advanced features such as pivot tables, charts, and financial formulas for comprehensive data analysis and visualization.
+- **Excel**: Advanced features such as pivot tables, and financial formulas for comprehensive data analysis and visualization.
 - **Data Analysis**: Performance metrics, financial ratios, customer segmentation, and market trends.
 
 ## Project Objectives:
